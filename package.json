@@ -72,14 +72,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/itranga@gmail.com/temple.git"
+    "url": "https://github.com/itranga/temple.git"
   },
   "author": "itranga@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/itranga@gmail.com/temple/issues"
+    "url": "https://github.com/itranga/temple/issues"
   },
-  "homepage": "https://github.com/itranga@gmail.com/temple",
+  "homepage": "https://github.com/itranga/temple",
   "engines": {
     "node": "stable"
   }
