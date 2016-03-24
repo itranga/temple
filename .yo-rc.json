@@ -1,0 +1,10 @@
+{
+  "generator-ng-fullstack": {
+    "username": "itranga@gmail.com",
+    "appName": "temple",
+    "stack": "fullstack",
+    "server": "node",
+    "client": "ng2",
+    "transpilerServer": "typescript"
+  }
+}
